@@ -30,7 +30,7 @@
 > 根据【主题】生成高质量竖版科普百科图，强调图鉴感、百科感、信息结构感和收藏感。  
 > 画面包含主题主视觉、局部细节放大、圆角信息模块、标题层级、重点标签、评分卡或 Top 5 模块。
 
-![科普百科图](https://pub-65f4f9ebbcf14b2692647cad2c9b5e10.r2.dev/codex/11e4d5f3-4878-476d-998e-e0ccc2cf046e.png)
+<img src="https://pub-65f4f9ebbcf14b2692647cad2c9b5e10.r2.dev/codex/11e4d5f3-4878-476d-998e-e0ccc2cf046e.png" alt="科普百科图" width="420" />
 
 ### 2. 韩流偶像九宫格
 
@@ -41,7 +41,7 @@
 > 9:16 竖版九宫格拼贴，同一位韩流女偶像保持高度一致的人脸、发型和风格。  
 > 每张图展示不同姿势和微表情，整体像专业拍摄联系表或 Instagram 轮播页。
 
-![韩流偶像九宫格](https://pub-65f4f9ebbcf14b2692647cad2c9b5e10.r2.dev/codex/9b0c87dd-09e1-4eb5-9da5-b0fbe4b4d13c.png)
+<img src="https://pub-65f4f9ebbcf14b2692647cad2c9b5e10.r2.dev/codex/9b0c87dd-09e1-4eb5-9da5-b0fbe4b4d13c.png" alt="韩流偶像九宫格" width="420" />
 
 ### 3. 新中式水墨山水海报
 
@@ -52,7 +52,7 @@
 > 新中式水墨山水海报，竖版 9:16，大面积留白，青绿与雾蓝为主色。  
 > 群山、湖面、晨雾、小舟、红衣渔女共同构成空灵湿润的东方意境。
 
-![新中式水墨山水海报](https://pub-65f4f9ebbcf14b2692647cad2c9b5e10.r2.dev/codex/d970f024-7548-43bd-9207-2d30bb241f34.png)
+<img src="https://pub-65f4f9ebbcf14b2692647cad2c9b5e10.r2.dev/codex/d970f024-7548-43bd-9207-2d30bb241f34.png" alt="新中式水墨山水海报" width="420" />
 
 ### 4. 商品广告重设计
 
@@ -63,7 +63,7 @@
 > 从专业设计师视角重设计现有商品广告。  
 > 根据当下趋势和目标用户，做成更现代、极简、精致、有高级排版感的版本。
 
-![商品广告重设计](https://pub-65f4f9ebbcf14b2692647cad2c9b5e10.r2.dev/codex/c1b5cbd3-b23c-45f1-b91f-3d5bb86f65d0.png)
+<img src="https://pub-65f4f9ebbcf14b2692647cad2c9b5e10.r2.dev/codex/c1b5cbd3-b23c-45f1-b91f-3d5bb86f65d0.png" alt="商品广告重设计" width="420" />
 
 ### 5. 柔光人像摄影
 
@@ -74,7 +74,7 @@
 > 柔雾滤镜、轻微高光 bloom、低饱和、自然窗光、梦幻胶片色调。  
 > 适合杂志感、轻朦胧、空气感人像。
 
-![柔光人像摄影](https://pub-65f4f9ebbcf14b2692647cad2c9b5e10.r2.dev/codex/e0f93ce3-3c6a-467c-aefd-5abd2c7dc558.png)
+<img src="https://pub-65f4f9ebbcf14b2692647cad2c9b5e10.r2.dev/codex/e0f93ce3-3c6a-467c-aefd-5abd2c7dc558.png" alt="柔光人像摄影" width="420" />
 
 ### 6. 胶片摄影风格
 
@@ -85,7 +85,7 @@
 > Analog 35mm 胶片摄影，柔和自然窗光，轻微过曝，低反差，粉彩色调，真实胶片颗粒。  
 > 适合日系轻写真和带怀旧气氛的人像内容。
 
-![胶片摄影风格](https://pub-65f4f9ebbcf14b2692647cad2c9b5e10.r2.dev/codex/c1b3cbcb-28e9-4db3-b263-e371bf6a8a54.png)
+<img src="https://pub-65f4f9ebbcf14b2692647cad2c9b5e10.r2.dev/codex/c1b3cbcb-28e9-4db3-b263-e371bf6a8a54.png" alt="胶片摄影风格" width="420" />
 
 ## 收录标准
 
