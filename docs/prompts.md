@@ -2,172 +2,258 @@
 
 这里先放不分组的精选 Prompt。现阶段重点不是分类，而是先把真正值得收藏和复用的内容沉淀下来。
 
-## 1. 复古旅行海报
+## 1. 科普百科图
 
-**适用场景**：海报、封面插画、品牌视觉  
-**关键词**：复古、旅行、电影感、插画
-
-**Prompt**
-
-```text
-Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast, Italy, panoramic coastal cliff road scene, classic 1960s white car driving along a curved seaside road, deep blue Mediterranean sea with small sailboats, colorful pastel hillside village, bright blue sky with soft clouds, lemon tree branches with vibrant yellow lemons framing the foreground, warm summer sunlight, bold vibrant colors, retro 1950s travel poster style, cinematic composition, high detail, screen print texture, graphic illustration. Hand-drawn style, illustration with loose strokes and defined contours. High-contrast color palette, maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.
-```
-
-**中文参考**
-
-```text
-阿马尔菲海岸复古旅行海报，宽幅全景海岸公路，1960年代白色老车沿弯道行驶，深蓝海面与小帆船，粉彩山城，前景柠檬树枝，夏日暖阳，1950年代旅游海报风格，电影感构图，丝网印刷质感，手绘插画。
-```
-
-## 2. SaaS 首页视觉稿
-
-**适用场景**：官网首屏、产品海报、设计展示  
-**关键词**：UI、网页、产品设计、干净高级
+**热度**：点赞 441  
+**作者**：[MrLarus](https://x.com/MrLarus)  
+**适用场景**：百科图、知识卡、图鉴、社媒传播图
 
 **Prompt**
 
 ```text
-modern SaaS website homepage, figma style, clean navigation bar, hero section with floating prompt input UI, rounded card, soft shadow, minimal design background filled with colorful creative design boards, portfolio layouts, typography posters, UI mockups, grid composition centered composition, elegant spacing, premium UI design, soft lighting, subtle depth, product landing page, 8k, ultra clean
+请根据【主题】生成一张高质量竖版「科普百科图」。
+
+这张图不是普通海报，也不是单纯插画，而是一张兼具"图鉴感、百科感、信息结构感、收藏感"的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知识卡和社交媒体高传播信息图的结合。
+
+请让画面包含：
+- 一个清晰漂亮的主题主视觉
+- 若干局部特征放大细节
+- 多个圆角模块化信息分区
+- 清楚的标题层级与重点标签
+- 简洁但丰富的百科内容
+- 可视化评分、要点总结或Top 5模块
+
+内容栏目请根据主题自动适配，优先从这些方向中选择并合理组合：
+基础档案、分类信息、外观特征、习性/生态、形成机制/结构组成、生长或使用条件、养护或维护建议、风险与注意事项、适合人群或适用场景、优缺点对比、快速评分卡。
+
+视觉要求：
+浅色干净背景，柔和配色，轻阴影，精致小图标，圆角信息框，整洁排版，信息密度高但不拥挤，阅读体验好。整体必须像真正可以发布、阅读、收藏、系列化生产的科普百科卡，而不是广告图。
+
+请不要做成普通商业宣传海报。要突出"知识整理 + 模块信息 + 图鉴式展示"的特征。
 ```
 
-**中文参考**
+**为什么值得收藏**
 
-```text
-现代 SaaS 官网首页视觉，Figma 风格，简洁导航栏，首屏带悬浮输入框 UI，圆角卡片与柔和阴影，背景由创意作品板、排版海报和 UI 样机组成，网格化居中构图，高级留白，产品级落地页效果，干净、轻盈、精致。
-```
+这类 Prompt 很强的一点是结构完整，适合作为变量模板反复复用。只要替换主题，就能批量产出统一风格的知识型内容。
 
-## 3. 电商产品广告图
+## 2. 游戏状态画面
 
-**适用场景**：护肤品、3C 产品、包装视觉  
-**关键词**：产品摄影、写实、排版、质感
+**热度**：点赞 546  
+**作者**：[Kashiko_AIart](https://x.com/Kashiko_AIart)  
+**适用场景**：游戏 UI、状态界面、视觉演示图
 
 **Prompt**
 
 ```text
-Editorial product shot of [skincare serum bottle] on a polished black marble surface. Wide, centered composition. Hard directional light from upper-right casting a sharp shadow to the left. The label reads "LUMIÈRE SERUM" in thin serif font, white text, perfectly legible. Background is deep charcoal with subtle light falloff. Photorealistic. High detail on the glass texture and label typography. No props, no other objects.
+この画像からゲームのステータス画面を作ってください。情報量多め。言語は日本語。
 ```
 
-**中文参考**
+**为什么值得收藏**
 
-```text
-黑色抛光大理石上的护肤精华瓶广告图，广角居中构图，右上方硬光打出清晰投影，深炭灰背景，玻璃质感和标签排版清晰可读，写实商业摄影，不要道具，不要其他物体。
-```
+很短，但任务明确。适合测试模型在“基于已有图生成复杂 UI 界面”上的能力。
 
-## 4. 服装替换改图
+## 3. 韩流偶像九宫格
 
-**适用场景**：换装、试穿、电商改图  
-**关键词**：编辑、一致性、真实融合
+**热度**：点赞 406  
+**作者**：[BubbleBrain](https://x.com/BubbleBrain)  
+**适用场景**：九宫格海报、人像系列、社媒内容
 
 **Prompt**
 
 ```text
-Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.
+9:16 vertical — a 3x3 grid collage (nine images) forming a Korean idol portrait photoshoot series. Each frame features the same young Korean female idol, maintaining 100% consistency in facial features, hairstyle, and styling across all nine images. Each photo showcases a different pose, expression, and subtle outfit variation (same white oversized button-up shirt, variations in how it's worn). Natural window light, soft and airy aesthetic, minimal clean indoor background, authentic film-like color grading with gentle pastel tones, editorial photography style. The collage should look like a professional photoshoot contact sheet or Instagram carousel layout. Soft focus, slight grain, warm highlights, gentle shadows. Extremely consistent identity across all frames while showing range in posing and mood.
 ```
 
-**中文参考**
+**为什么值得收藏**
 
-```text
-使用提供的服装图为人物换装，但不得改变她的脸部特征、肤色、身形、姿势、发型和身份。只替换服装，并让服装自然贴合现有身体姿态，呈现真实布料表现。保持原图的光线、阴影、色温、背景、机位和画质一致，不添加配饰、文字、logo 或水印。
-```
+同时覆盖了九宫格拼贴、人物一致性、胶片色调、社媒构图，是非常典型的高传播模板。
 
-## 5. 场景合成改图
+## 4. 新中式水墨山水海报
 
-**适用场景**：多图融合、人物与宠物合成、合成修图  
-**关键词**：合成、光线匹配、背景一致
+**热度**：点赞 46  
+**作者**：[liyue_ai](https://x.com/liyue_ai)  
+**适用场景**：东方美学海报、文化视觉、品牌主 KV
 
 **Prompt**
 
 ```text
-Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.
+新中式水墨山水海报，竖版9:16构图，东方极简美学风格，
+大面积留白，整体色调为春日清晨氛围（青绿色、雾蓝、淡灰、浅墨），低饱和、清透柔和，高级质感。
+画面主体为奇峻巍峨的群山，从中间平静湖面的两侧拔地而起，占据左右两侧画面，
+山体以水墨晕染表现，浓淡干湿变化丰富，局部融入淡青绿色渲染，体现春意生机。
+山峰被湿润轻柔的晨雾包裹，雾气层层递进，与浅青蓝天空自然融合，形成空气透视与空间纵深。
+湖面如镜面般平静，呈现微青绿色调，倒映山体与天空，反射略带柔焦与雾化扩散效果，增强春日湿润与梦幻氛围。
+中景一艘带弧形篷顶的小木舟缓慢漂浮，船桨轻触水面形成细腻涟漪，水纹自然扩散，整体保持极静状态。
+船上为一位红衣渔女，体量较小（远景比例），人物简化处理为水墨剪影 + 轻微设色。
 ```
 
-**中文参考**
+**为什么值得收藏**
 
-```text
-把第二张图里的狗放进第一张图的场景中，让它站在女人旁边，保持与原图一致的光线、构图和背景风格，除此之外不要改动任何内容。
-```
+这是典型的“气氛、构图、材质、色彩都写得很饱满”的海报型 Prompt，适合直接当模板改主题。
 
-## 6. 角色一致性儿童绘本
+## 5. 动画电影海报
 
-**适用场景**：绘本、连续角色、故事分镜  
-**关键词**：角色一致、温暖、水彩、叙事
+**热度**：点赞 98  
+**作者**：[seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru)  
+**适用场景**：故事海报、概念电影海报、情绪视觉
 
 **Prompt**
 
 ```text
-Continue the children's book story using the same character. Scene: The same young forest hero is gently helping a frightened squirrel out of a fallen tree after a winter storm. The character kneels beside the squirrel, offering reassurance. Character Consistency: - Same green hooded tunic - Same facial features, proportions, and color palette - Same gentle, heroic personality Style: Children's book watercolor illustration, soft lighting, snowy forest environment, warm and comforting mood. Constraints: - Do not redesign the character - No text - No watermarks
+架空のアニメ映画のポスターをGPT image2で作成。
+タイトル「星降る夜の約束」
+幻想的な星空を背景に、少年と少女が手を繋いでいるシーン。
+スタジオジブリ風の水彩タッチ、暖かい色調、 dreamlike atmosphere。
 ```
 
-**中文参考**
+**为什么值得收藏**
 
-```text
-继续同一角色的儿童绘本故事。冬季风暴后，小英雄在雪地森林里帮助一只受惊的小松鼠。保持同样的绿色兜帽服、面部特征、比例和配色，延续温柔勇敢的气质。儿童绘本水彩风，柔和光线，温暖治愈氛围，不重设计角色，不要文字和水印。
-```
+短 Prompt 也能有画面感，这条很适合学习“标题 + 场景 + 情绪 + 风格”的简洁写法。
 
-## 7. 电影画面分析图
+## 6. 商品广告重设计
 
-**适用场景**：影视分析、教学配图、镜头拆解  
-**关键词**：标注、电影感、构图分析
+**热度**：点赞 99  
+**作者**：[genel_ai](https://x.com/genel_ai)  
+**适用场景**：广告重设计、电商升级、商业提案
 
 **Prompt**
 
 ```text
-Analyze this film still and annotate the shot. Overlay: - lighting direction and quality - composition rules used - lens characteristics (focal length, depth of field) - blocking and actor positioning Place labels accurately on the image. Clean typography, cinematic analysis style.
+この商品広告をプロのデザイナー目線でリデザインして。
+今のトレンド、ターゲットに合わせた洗練されたデザインで。
+モダンでミニマルな雰囲気、高級感のあるタイポグラフィ、
+商品の魅力を最大限に引き出す構成でお願いします。
 ```
 
-**中文参考**
+**为什么值得收藏**
 
-```text
-分析这张电影画面并在图上做标注，包含光线方向与性质、构图规则、镜头焦段与景深、人物调度与站位。标签准确、排版干净，整体保持专业电影分析图风格。
-```
+很适合改图类任务，尤其是拿旧广告图快速升级成“更像专业设计师做的版本”。
 
-## 8. 动漫主视觉
+## 7. 东方幻想城市海报
 
-**适用场景**：角色海报、KV、二次元宣传图  
-**关键词**：动漫、细节、文本可读、画面统一
+**热度**：点赞 25  
+**作者**：[liyue_ai](https://x.com/liyue_ai)  
+**适用场景**：城市海报、活动主视觉、东方未来主义视觉
 
 **Prompt**
 
 ```text
-Create an anime-style key visual with a detailed character in the foreground, a rich illustrated background, polished lighting, readable embedded text, and strong harmony between character art and environment design. High detail, clean linework, vibrant but balanced colors, polished poster-like finish.
+平面插画，东方幻想风格高端城市海报设计，竖版9:16构图，整体采用对角线+S型流动构图，从左下向右上延展，画面以深邃黑色为背景，自上而下渐变至浓烈暗红色，形成强烈冷暖对比与空间纵深，背景带微弱星尘与颗粒质感。画面中央一条金色流动能量线条如火焰般蜿蜒贯穿，自底部向上延伸，具有流体质感、粒子光效与渐变高光。
 ```
 
-**中文参考**
+**为什么值得收藏**
 
-```text
-创作一张动漫风主视觉海报，前景角色刻画细致，背景丰富完整，光影精修，内嵌文字清晰可读，角色与环境设计风格统一，线稿干净，色彩鲜明但平衡，整体呈现高完成度海报效果。
-```
+适合学习“高端商业海报”的色彩秩序和视觉主线写法。
 
-## 9. 极简电影感人像
+## 8. 角色视觉海报
 
-**适用场景**：人像海报、品牌视觉、封面图  
-**关键词**：极简、剪影、强氛围、对称
+**热度**：点赞 29  
+**作者**：[tebasaki3D](https://x.com/tebasaki3D)  
+**适用场景**：角色主视觉、世界观海报、概念设定图
 
 **Prompt**
 
 ```text
-Generate a cinematic minimal portrait of a solitary man standing in an intense orange to red gradient environment, strong silhouette lighting, deep shadow contrast, reflective glossy floor, symmetrical composition, minimal
+「神層37区　特級執行官　神巫サバト」この名称のキャラクターと世界観に合ったビジュアルイメージを、プロのデザイナーとして縦長のポスターイメージとして制作してください。
+近未来の暗い雰囲気、サイバーパンク要素、神秘的な力を持つ女性キャラクター、
+黒と紫を基調とした配色、ゴシック×サイバーの融合デザイン。
 ```
 
-**中文参考**
+**为什么值得收藏**
 
-```text
-生成一张极简电影感人像：一个男人独自站在橙红渐变空间中，强烈剪影光，深阴影反差，地面带反射，对称构图，画面克制但氛围强烈。
-```
+非常适合做“只有名字和设定，但没有视觉”的角色概念启动。
 
-## 10. 文字与视觉融合测试
+## 9. 机甲少女
 
-**适用场景**：能力展示、模型对比、案例页  
-**关键词**：文字渲染、游戏 UI、复杂画面
+**热度**：点赞 30  
+**作者**：[old_pgmrs_will](https://x.com/old_pgmrs_will)  
+**适用场景**：机甲角色、概念插画、游戏角色设定
 
 **Prompt**
 
 ```text
-Create a four-image capability test for GPT-Image-2: 1. A Grand Theft Auto-style rainy nighttime scene in Hong Kong with neon Chinese signage, wet streets, a black sports car, minimap UI, subtitles, button prompts, and readable location text. 2. A Minecraft-style raid scene at night with TNT explosions, armored players, HUD hearts, inventory bar, chat messages, faction statistics, and a raid timer. 3. A typography accuracy test that places alphabet letters correctly in sequence. Each panel should be visually distinct, highly legible, and compositionally polished.
+A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber eyes with glowing HUD reticles, waist-length ash-white hair tied in a high ponytail whipping in the sea wind, matte gunmetal-gray exoskeletal armor with hydraulic joints and battle damage, standing on a storm-lashed oil rig deck at twilight, waves crashing against the platform, emergency lights strobing red through the rain, cinematic composition, dramatic lighting, anime-meets-cyberpunk aesthetic
 ```
 
-**中文参考**
+**为什么值得收藏**
+
+这类 Prompt 的价值在于细节密度很高，人物、环境、材质、天气、气氛一起完成了。
+
+## 10. 人物关系图海报
+
+**热度**：点赞 2  
+**作者**：[MrLarus](https://x.com/MrLarus)  
+**适用场景**：人物关系图、作品解读图、信息海报
+
+**Prompt**
 
 ```text
-创建一组四宫格能力测试图：包含香港雨夜霓虹街头的 GTA 风场景、夜间 Minecraft 攻城场景，以及字母排版准确性测试。每一格都要风格鲜明、文字清晰、构图完整，用来展示模型在复杂 UI 与文本渲染上的能力。
+请根据【主题】，生成一张高设计感的人物关系图海报。要求这张图不是普通插画，而是兼具信息可视化、叙事结构、海报设计感和作品风格还原度的人物关系图。
+
+请自动完成以下内容：
+- 识别该主题对应的作品及其核心设定
+- 提取最具代表性的 6–12 位关键人物
+- 识别并展示关键人物关系，包括血缘、爱情、友情、联盟、敌对、师徒、主从、操控、背叛、秘密关系等
+- 自动按作品特点选择合适的构图方式
+- 用不同颜色、线型、箭头区分不同关系
 ```
+
+**为什么值得收藏**
+
+这是一个很强的信息图模板，适合做动画、小说、影视作品的人物关系梳理。
+
+## 11. 柔光人像摄影
+
+**热度**：点赞 183  
+**作者**：[BubbleBrain](https://x.com/BubbleBrain)  
+**适用场景**：杂志人像、氛围肖像、封面图
+
+**Prompt**
+
+```text
+9:16 vertical — editorial portrait, single subject soft black mist filter, subtle haze, gentle highlight bloom, muted tones minimal indoor space, clean background, slight texture young Korean woman, natural makeup, relaxed expression, soft window light, film-like color grading, dreamy atmosphere
+```
+
+**为什么值得收藏**
+
+关键词很集中，特别适合学习柔光、朦胧、轻胶片这一路的人像写法。
+
+## 12. 胶片摄影风格
+
+**热度**：点赞 363  
+**作者**：[BubbleBrain](https://x.com/BubbleBrain)  
+**适用场景**：日系胶片、人像摄影、生活感写真
+
+**Prompt**
+
+```text
+Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffused natural window light, slight overexposure, pastel tones, low contrast, soft highlights, minimal indoor setting near a window, early 20s Korean female subject, natural minimal makeup, relaxed casual pose, wearing simple white oversized t-shirt, authentic film grain, subtle color shift, dreamy nostalgic mood, editorial photography style
+```
+
+**为什么值得收藏**
+
+这是非常标准的“胶片氛围人像”模板，色调、光线、材质和人物状态都写得刚刚好。
+
+## 13. CCD 相机美学
+
+**热度**：点赞 190  
+**作者**：[BubbleBrain](https://x.com/BubbleBrain)  
+**适用场景**：CCD 复古审美、随手拍、生活方式内容
+
+**Prompt**
+
+```json
+{
+  "prompt": {
+    "style_and_tech": "mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy indoor lighting, candid snapshot feeling, slight motion blur",
+    "subject": "young Korean female, natural minimal makeup, slightly surprised expression, casual home setting",
+    "clothing": "oversized vintage t-shirt, messy hair bun",
+    "lighting": "harsh direct flash, red-eye effect, overexposed highlights",
+    "atmosphere": "2000s nostalgia, low-res digital camera look, authentic casual moment"
+  }
+}
+```
+
+**为什么值得收藏**
+
+这条很适合拿来做“结构化 Prompt”参考，说明除了自然语言，也可以把需求写成更模块化的输入。
