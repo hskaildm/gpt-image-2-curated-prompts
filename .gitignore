@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+scripts/
+data/
+requirements.txt
+data/raw/*.html
+data/raw/*.md
+data/raw/*.json
+data/normalized/*.json
+docs/examples/
