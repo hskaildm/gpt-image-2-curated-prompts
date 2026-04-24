@@ -441,7 +441,7 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 
 </details>
 
-<img src="https://pub-65f4f9ebbcf14b2692647cad2c9b5e10.r2.dev/codex/c4f6d300-7fca-45e0-98da-0ae920ca6ec5.png" alt="幻想地图" width="420" />
+<img src="https://pub-65f4f9ebbcf14b2692647cad2c9b5e10.r2.dev/codex/2291a39f-1b33-4436-8b22-52a15ba41699.png" alt="幻想地图" width="420" />
 
 ## 21. 老印刷品
 
