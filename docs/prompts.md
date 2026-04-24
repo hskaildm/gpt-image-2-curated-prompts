@@ -321,7 +321,7 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 
 </details>
 
-<img src="https://pub-65f4f9ebbcf14b2692647cad2c9b5e10.r2.dev/codex/7c58eca7-b4c6-445d-881e-488c6138796e.png" alt="攻略长图" width="420" />
+<img src="https://pub-65f4f9ebbcf14b2692647cad2c9b5e10.r2.dev/codex/a622fbae-8e6b-4f8d-8c62-dca23ebd7609.png" alt="攻略长图" width="420" />
 
 ## 15. 老片海报
 
